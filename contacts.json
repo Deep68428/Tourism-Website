@@ -1,0 +1,16 @@
+[
+   {
+      "cname":"abc",
+      "cimageurls":[
+         "http://localhost:5000"
+      ],
+      "clocation":"Canada",
+      "ctype":"Web developer",
+      "cemail":"abc@gmail.com",
+      "cphonenumber":77777777,
+      "clink1":"",
+      "clink2":"",
+      "clink3":"",
+      "clink4":""
+   }
+]
